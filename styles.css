@@ -13,7 +13,9 @@ html {
 }
 
 body {
-    background: #ccc;
+	/* background: #ccc; */
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg,  #8F9779 0%, #4B5320 100%);
     margin: 30px 50px;
     line-height: 1.4;
 }
